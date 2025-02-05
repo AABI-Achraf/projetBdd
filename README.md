@@ -73,6 +73,9 @@ Suite aux négociations avec le client, les besoins ont été précisés comme s
 ## 3. Schéma Relationnel et Justification de la Structure
 
 ### a. Structure du Schéma Relationnel
+![plantuml](https://github.com/user-attachments/assets/deff37e3-fa3c-427c-89a2-1056fe0efcf8)
+
+
 
 Les principales tables sont :
 
